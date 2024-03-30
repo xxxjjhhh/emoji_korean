@@ -17,5 +17,8 @@
     "json",
     "korean",
     "korea"
-  ]
+  ],
+  "publishConfig": {
+    "@xxxjjhhh:registry": "https://npm.pkg.github.com"
+  }
 }
