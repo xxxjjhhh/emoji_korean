@@ -193,5 +193,75 @@
         "emoji" : "😑",
         "hexcode" : "1F611",
         "description" : "무표정한 얼굴"
+    },
+    {
+        "emoji" : "😶",
+        "hexcode" : "1F636",
+        "description" : "입 없는 얼굴"
+    },
+    {
+        "emoji" : "🫥",
+        "hexcode" : "1F611",
+        "description" : "점선 얼굴"
+    },
+    {
+        "emoji" : "😏",
+        "hexcode" : "1F60F",
+        "description" : "웃는 얼굴"
+    },
+    {
+        "emoji" : "😒",
+        "hexcode" : "1F612",
+        "description" : "재미없는 얼굴"
+    },
+    {
+        "emoji" : "🙄",
+        "hexcode" : "1F644",
+        "description" : "눈을 굴리는 얼굴"
+    },
+    {
+        "emoji" : "😬",
+        "hexcode" : "1F62C",
+        "description" : "찡그린 얼굴"
+    },
+    {
+        "emoji" : "🤥",
+        "hexcode" : "1F925",
+        "description" : "거짓말하는 얼굴"
+    },
+    {
+        "emoji" : "🫨",
+        "hexcode" : "1FAE8",
+        "description" : "흔들리는 얼굴"
+    },
+    {
+        "emoji" : "😌",
+        "hexcode" : "1F60C",
+        "description" : "안도한 얼굴"
+    },
+    {
+        "emoji" : "😔",
+        "hexcode" : "1F614",
+        "description" : "잠겨있는 얼굴"
+    },
+    {
+        "emoji" : "😪",
+        "hexcode" : "1F62A",
+        "description" : "졸린 얼굴"
+    },
+    {
+        "emoji" : "🤤",
+        "hexcode" : "1F924",
+        "description" : "침 흘리는 얼굴"
+    },
+    {
+        "emoji" : "😴",
+        "hexcode" : "1F634",
+        "description" : "잠자는 얼굴"
+    },
+    {
+        "emoji" : "😷",
+        "hexcode" : "1F637",
+        "description" : "의료용 마스크를 쓴 얼굴"
     }
 ]
