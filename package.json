@@ -1,0 +1,16 @@
+{
+  "name": "emoji_korean",
+  "version": "1.0.0",
+  "description": "emoji with korean description",
+  "main": "emoji_korean.json",
+  "repository": "xxxjjhhh/emoji_korean",
+  "author": "kim jihun <xxxjjhhh@naver.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/xxxjjhhh/emoji_korean/issues",
+  "keywords": [
+    "emoji",
+    "json",
+    "korean",
+    "korea"
+  ]
+}
