@@ -1,0 +1,147 @@
+[
+    {
+        "emoji" : "😀",
+        "hexcode" : "1F600",
+        "description" : "웃는 얼굴"
+    },
+    {
+        "emoji" : "😃",
+        "hexcode" : "1F603",
+        "description" : "큰 눈을 가진 웃는 얼굴"
+    },
+    {
+        "emoji" : "😄",
+        "hexcode" : "1F604",
+        "description" : "웃는 눈으로 웃는 얼굴"
+    },
+    {
+        "emoji" : "😁",
+        "hexcode" : "1F601",
+        "description" : "웃는 눈으로 환하게 웃는 얼굴"
+    },
+    {
+        "emoji" : "😆",
+        "hexcode" : "1F606",
+        "description" : "찡그린 얼굴"
+    },
+    {
+        "emoji" : "😅",
+        "hexcode" : "1F605",
+        "description" : "땀으로 웃는 얼굴"
+    },
+    {
+        "emoji" : "🤣",
+        "hexcode" : "1F923",
+        "description" : "바닥에 구르며 웃다"
+    },
+    {
+        "emoji" : "😂",
+        "hexcode" : "1F602",
+        "description" : "기쁨의 눈물을 흘리며 얼굴을 맞대다"
+    },
+    {
+        "emoji" : "🙂",
+        "hexcode" : "1F642",
+        "description" : "살짝 웃는 얼굴"
+    },
+    {
+        "emoji" : "🙃",
+        "hexcode" : "1F643",
+        "description" : "거꾸로 된 얼굴"
+    },
+    {
+        "emoji" : "🫠",
+        "hexcode" : "1FAE0",
+        "description" : "녹는 얼굴"
+    },
+    {
+        "emoji" : "😉",
+        "hexcode" : "1F609",
+        "description" : "윙크하는 얼굴"
+    },
+    {
+        "emoji" : "😊",
+        "hexcode" : "1F60A",
+        "description" : "웃는 눈으로 미소 짓는 얼굴"
+    },
+    {
+        "emoji" : "😇",
+        "hexcode" : "1F607",
+        "description" : "후광으로 미소 짓는 얼굴"
+    },
+    {
+        "emoji" : "🥰",
+        "hexcode" : "1F970",
+        "description" : "애정하는 얼굴"
+    },
+    {
+        "emoji" : "😍",
+        "hexcode" : "1F60D",
+        "description" : "하트 눈으로 웃는 얼굴"
+    },
+    {
+        "emoji" : "🤩",
+        "hexcode" : "1F929",
+        "description" : "눈에 별이 빛나는 얼굴"
+    },
+    {
+        "emoji" : "😘",
+        "hexcode" : "1F618",
+        "description" : "키스를 날리는 얼굴"
+    },
+    {
+        "emoji" : "😗",
+        "hexcode" : "1F617",
+        "description" : "키스하는 얼굴"
+    },
+    {
+        "emoji" : "☺",
+        "hexcode" : "263A",
+        "description" : "웃는 얼굴"
+    },
+    {
+        "emoji" : "😚",
+        "hexcode" : "1F61A",
+        "description" : "눈을 감고 키스하는 얼굴"
+    },
+    {
+        "emoji" : "😙",
+        "hexcode" : "1F619",
+        "description" : "웃는 눈으로 키스하는 얼굴"
+    },
+    {
+        "emoji" : "🥲",
+        "hexcode" : "1F972",
+        "description" : "눈물 흘리며 웃는 얼굴"
+    },
+    {
+        "emoji" : "😋",
+        "hexcode" : "1F60B",
+        "description" : "음식을 음미하는 얼굴"
+    },
+    {
+        "emoji" : "😛",
+        "hexcode" : "1F61B",
+        "description" : "얼굴에 혀를 내밀다"
+    },
+    {
+        "emoji" : "😜",
+        "hexcode" : "1F61C",
+        "description" : "혀로 윙크하는 얼굴"
+    },
+    {
+        "emoji" : "🤪",
+        "hexcode" : "1F92A",
+        "description" : "엉뚱한 얼굴"
+    },
+    {
+        "emoji" : "😝",
+        "hexcode" : "1F61D",
+        "description" : "혀를 내밀고 눈을 가늘게 뜨고 있는 얼굴"
+    },
+    {
+        "emoji" : "🤑",
+        "hexcode" : "1F911",
+        "description" : "돈 입 얼굴"
+    }
+]
