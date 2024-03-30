@@ -138,5 +138,40 @@
         "emoji" : "🤑",
         "hexcode" : "1F911",
         "description" : "돈 입 얼굴"
+    },
+    {
+        "emoji" : "🤗",
+        "hexcode" : "1F917",
+        "description" : "두 손을 벌리고 웃는 얼굴"
+    },
+    {
+        "emoji" : "🤭",
+        "hexcode" : "1F92D",
+        "description" : "입에 손을 대고 얼굴"
+    },
+    {
+        "emoji" : "🫢",
+        "hexcode" : "1FAE2",
+        "description" : "눈을 뜨고 입에 손을 대고 있는 얼굴"
+    },
+    {
+        "emoji" : "🫣",
+        "hexcode" : "1FAE3",
+        "description" : "엿보는 눈으로 얼굴"
+    },
+    {
+        "emoji" : "🤫",
+        "hexcode" : "1F92B",
+        "description" : "조용히 하는 얼굴"
+    },
+    {
+        "emoji" : "🤔",
+        "hexcode" : "1F914",
+        "description" : "생각하는 얼굴"
+    },
+    {
+        "emoji" : "🫡",
+        "hexcode" : "1FAE1",
+        "description" : "경례하는 얼굴"
     }
 ]
