@@ -263,5 +263,290 @@
         "emoji" : "😷",
         "hexcode" : "1F637",
         "description" : "의료용 마스크를 쓴 얼굴"
+    },
+    {
+        "emoji" : "🤒",
+        "hexcode" : "1F912",
+        "description" : "온도계를 들고 있는 얼굴"
+    },
+    {
+        "emoji" : "🤕",
+        "hexcode" : "1F915",
+        "description" : "머리에 붕대를 감은 얼굴"
+    },
+    {
+        "emoji" : "🤢",
+        "hexcode" : "1F922",
+        "description" : "메스꺼운 얼굴"
+    },
+    {
+        "emoji" : "🤮",
+        "hexcode" : "1F92E",
+        "description" : "구토하는 얼굴"
+    },
+    {
+        "emoji" : "🤧",
+        "hexcode" : "1F927",
+        "description" : "재채기하는 얼굴"
+    },
+    {
+        "emoji" : "🥵",
+        "hexcode" : "1F975",
+        "description" : "뜨거운 얼굴"
+    },
+    {
+        "emoji" : "🥶",
+        "hexcode" : "1F976",
+        "description" : "차가운 얼굴"
+    },
+    {
+        "emoji" : "🥴",
+        "hexcode" : "1F974",
+        "description" : "멍한 얼굴"
+    },
+    {
+        "emoji" : "😵",
+        "hexcode" : "1F635",
+        "description" : "눈을 가린 얼굴"
+    },
+    {
+        "emoji" : "🤯",
+        "hexcode" : "1F92F",
+        "description" : "폭발하는 머리"
+    },
+    {
+        "emoji" : "🤠",
+        "hexcode" : "1F920",
+        "description" : "카우보이 모자 얼굴"
+    },
+    {
+        "emoji" : "🥳",
+        "hexcode" : "1F973",
+        "description" : "파티하는 얼굴"
+    },
+    {
+        "emoji" : "🥸",
+        "hexcode" : "1F978",
+        "description" : "위장한 얼굴"
+    },
+    {
+        "emoji" : "😎",
+        "hexcode" : "1F60E",
+        "description" : "선글라스를 끼고 웃는 얼굴"
+    },
+    {
+        "emoji" : "🤓",
+        "hexcode" : "1F913",
+        "description" : "괴상한 얼굴"
+    },
+    {
+        "emoji" : "🧐",
+        "hexcode" : "1F9D0",
+        "description" : "단안경을 쓴 얼굴"
+    },
+    {
+        "emoji" : "😕",
+        "hexcode" : "1F615",
+        "description" : "혼란스러운 얼굴"
+    },
+    {
+        "emoji" : "🫤",
+        "hexcode" : "1FAE4",
+        "description" : "대각선 입으로 얼굴"
+    },
+    {
+        "emoji" : "😟",
+        "hexcode" : "1F61F",
+        "description" : "걱정스러운 얼굴"
+    },
+    {
+        "emoji" : "🙁",
+        "hexcode" : "1F641",
+        "description" : "살짝 찡그린 얼굴"
+    },
+    {
+        "emoji" : "😮",
+        "hexcode" : "1F62E",
+        "description" : "입을 벌린 얼굴"
+    },
+    {
+        "emoji" : "😯",
+        "hexcode" : "1F62F",
+        "description" : "숨죽인 얼굴"
+    },
+    {
+        "emoji" : "😲",
+        "hexcode" : "1F632",
+        "description" : "놀란 얼굴"
+    },
+    {
+        "emoji" : "😳",
+        "hexcode" : "1F633",
+        "description" : "붉어진 얼굴"
+    },
+    {
+        "emoji" : "🥺",
+        "hexcode" : "1F97A",
+        "description" : "애원하는 얼굴"
+    },
+    {
+        "emoji" : "🥹",
+        "hexcode" : "1F979",
+        "description" : "눈물을 참는 얼굴"
+    },
+    {
+        "emoji" : "😦",
+        "hexcode" : "1F626",
+        "description" : "입을 벌리고 찡그린 얼굴"
+    },
+    {
+        "emoji" : "😧",
+        "hexcode" : "1F627",
+        "description" : "괴로운 얼굴"
+    },
+    {
+        "emoji" : "😨",
+        "hexcode" : "1F628",
+        "description" : "두려운 얼굴"
+    },
+    {
+        "emoji" : "😰",
+        "hexcode" : "1F630",
+        "description" : "땀에 젖은 불안한 얼굴"
+    },
+    {
+        "emoji" : "😥",
+        "hexcode" : "1F625",
+        "description" : "슬프지만 안심하는 얼굴"
+    },
+    {
+        "emoji" : "😢",
+        "hexcode" : "1F622",
+        "description" : "우는 얼굴"
+    },
+    {
+        "emoji" : "😭",
+        "hexcode" : "1F62D",
+        "description" : "크게 우는 얼굴"
+    },
+    {
+        "emoji" : "😱",
+        "hexcode" : "1F631",
+        "description" : "두려움에 비명을 지르는 얼굴"
+    },
+    {
+        "emoji" : "😖",
+        "hexcode" : "1F616",
+        "description" : "당황한 얼굴"
+    },
+    {
+        "emoji" : "😣",
+        "hexcode" : "1F623",
+        "description" : "인내하는 얼굴"
+    },
+    {
+        "emoji" : "😞",
+        "hexcode" : "1F61E",
+        "description" : "실망한 얼굴"
+    },
+    {
+        "emoji" : "😓",
+        "hexcode" : "1F613",
+        "description" : "땀에 젖은 얼굴"
+    },
+    {
+        "emoji" : "😩",
+        "hexcode" : "1F629",
+        "description" : "지친 얼굴"
+    },
+    {
+        "emoji" : "😫",
+        "hexcode" : "1F62B",
+        "description" : "피곤한 얼굴"
+    },
+    {
+        "emoji" : "🥱",
+        "hexcode" : "1F971",
+        "description" : "하품하는 얼굴"
+    },
+    {
+        "emoji" : "😤",
+        "hexcode" : "1F624",
+        "description" : "코에서 김이 나는 얼굴"
+    },
+    {
+        "emoji" : "😡",
+        "hexcode" : "1F621",
+        "description" : "분노한 얼굴"
+    },
+    {
+        "emoji" : "😠",
+        "hexcode" : "1F620",
+        "description" : "화난 얼굴"
+    },
+    {
+        "emoji" : "🤬",
+        "hexcode" : "1F92C",
+        "description" : "입에 상징이 있는 얼굴"
+    },
+    {
+        "emoji" : "😈",
+        "hexcode" : "1F608",
+        "description" : "뿔이 달린 웃는 얼굴"
+    },
+    {
+        "emoji" : "👿",
+        "hexcode" : "1F47F",
+        "description" : "뿔이 달린 화난 얼굴"
+    },
+    {
+        "emoji" : "💀",
+        "hexcode" : "1F480",
+        "description" : "두개골"
+    },
+    {
+        "emoji" : "💩",
+        "hexcode" : "1F4A9",
+        "description" : "똥 더미"
+    },
+    {
+        "emoji" : "🤡",
+        "hexcode" : "1F921",
+        "description" : "광대 얼굴"
+    },
+    {
+        "emoji" : "👹",
+        "hexcode" : "1F479",
+        "description" : "오우거"
+    },
+    {
+        "emoji" : "👺",
+        "hexcode" : "1F47A",
+        "description" : "고블린"
+    },
+    {
+        "emoji" : "👻",
+        "hexcode" : "1F47B",
+        "description" : "귀신"
+    },
+    {
+        "emoji" : "👽",
+        "hexcode" : "1F47D",
+        "description" : "외계인"
+    },
+    {
+        "emoji" : "👾",
+        "hexcode" : "1F47E",
+        "description" : "외계 괴물"
+    },
+    {
+        "emoji" : "🤖",
+        "hexcode" : "1F916",
+        "description" : "로봇"
+    },
+    {
+        "emoji" : "😺",
+        "hexcode" : "1F63A",
+        "description" : "웃는 고양이"
     }
 ]
