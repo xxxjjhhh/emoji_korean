@@ -1,0 +1,2 @@
+# emoji_korean
+
