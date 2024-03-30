@@ -188,5 +188,10 @@
         "emoji" : "😐",
         "hexcode" : "1F610",
         "description" : "중립 얼굴"
+    },
+    {
+        "emoji" : "😑",
+        "hexcode" : "1F611",
+        "description" : "무표정한 얼굴"
     }
 ]
