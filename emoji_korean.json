@@ -173,5 +173,10 @@
         "emoji" : "🫡",
         "hexcode" : "1FAE1",
         "description" : "경례하는 얼굴"
+    },
+    {
+        "emoji" : "🤐",
+        "hexcode" : "1F910",
+        "description" : "지퍼 입 얼굴"
     }
 ]
