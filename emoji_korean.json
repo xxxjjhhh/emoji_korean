@@ -1458,5 +1458,815 @@
         "emoji" : "🤹",
         "hexcode" : "1F939",
         "description" : "저글링하는 사람"
+    },
+    {
+        "emoji" : "🧘",
+        "hexcode" : "1F9D8",
+        "description" : "연꽃 자세의 사람"
+    },
+    {
+        "emoji" : "🛀",
+        "hexcode" : "1F6C0",
+        "description" : "목욕하는 사람"
+    },
+    {
+        "emoji" : "🛌",
+        "hexcode" : "1F6CC",
+        "description" : "침대에 있는 사람"
+    },
+    {
+        "emoji" : "👭",
+        "hexcode" : "1F46D",
+        "description" : "손을 잡고 있는 여성들"
+    },
+    {
+        "emoji" : "👫",
+        "hexcode" : "1F46B",
+        "description" : "여자와 남자가 손을 잡고"
+    },
+    {
+        "emoji" : "👬",
+        "hexcode" : "1F46C",
+        "description" : "손을 잡고 있는 남자들"
+    },
+    {
+        "emoji" : "💏",
+        "hexcode" : "1F48F",
+        "description" : "키스"
+    },
+    {
+        "emoji" : "👤",
+        "hexcode" : "1F464",
+        "description" : "실루엣의 흉상"
+    },
+    {
+        "emoji" : "👥",
+        "hexcode" : "1F465",
+        "description" : "실루엣의 흉상들"
+    },
+    {
+        "emoji" : "🫂",
+        "hexcode" : "1FAC2",
+        "description" : "포옹하는 사람들"
+    },
+    {
+        "emoji" : "👪",
+        "hexcode" : "1F46A",
+        "description" : "가족"
+    },
+    {
+        "emoji" : "💑",
+        "hexcode" : "1F491",
+        "description" : "마음으로 커플"
+    },
+    {
+        "emoji" : "👣",
+        "hexcode" : "1F463",
+        "description" : "발자취"
+    },
+    {
+        "emoji" : "🦰",
+        "hexcode" : "1F9B0",
+        "description" : "빨강 머리"
+    },
+    {
+        "emoji" : "🦱",
+        "hexcode" : "1F9B1",
+        "description" : "곱슬 머리"
+    },
+    {
+        "emoji" : "🦳",
+        "hexcode" : "1F9B3",
+        "description" : "흰머리"
+    },
+    {
+        "emoji" : "🦲",
+        "hexcode" : "1F9B2",
+        "description" : "대머리"
+    },
+    {
+        "emoji" : "🐵",
+        "hexcode" : "1F435",
+        "description" : "원숭이 얼굴"
+    },
+    {
+        "emoji" : "🐒",
+        "hexcode" : "1F412",
+        "description" : "원숭이"
+    },
+    {
+        "emoji" : "🦍",
+        "hexcode" : "1F98D",
+        "description" : "고릴라"
+    },
+    {
+        "emoji" : "🦧",
+        "hexcode" : "1F9A7",
+        "description" : "오랑우탄"
+    },
+    {
+        "emoji" : "🐶",
+        "hexcode" : "1F436",
+        "description" : "강아지 얼굴"
+    },
+    {
+        "emoji" : "🐕",
+        "hexcode" : "1F415",
+        "description" : "개"
+    },
+    {
+        "emoji" : "🦮",
+        "hexcode" : "1F9AE",
+        "description" : "안내견"
+    },
+    {
+        "emoji" : "🐩",
+        "hexcode" : "1F429",
+        "description" : "푸들"
+    },
+    {
+        "emoji" : "🐺",
+        "hexcode" : "1F43A",
+        "description" : "늑대"
+    },
+    {
+        "emoji" : "🦊",
+        "hexcode" : "1F98A",
+        "description" : "여우"
+    },
+    {
+        "emoji" : "🦝",
+        "hexcode" : "1F99D",
+        "description" : "너구리"
+    },
+    {
+        "emoji" : "🐱",
+        "hexcode" : "1F431",
+        "description" : "고양이 얼굴"
+    },
+    {
+        "emoji" : "🐈",
+        "hexcode" : "1F408",
+        "description" : "고양이"
+    },
+    {
+        "emoji" : "🦁",
+        "hexcode" : "1F981",
+        "description" : "사자"
+    },
+    {
+        "emoji" : "🐯",
+        "hexcode" : "1F42F",
+        "description" : "호랑이 얼굴"
+    },
+    {
+        "emoji" : "🐅",
+        "hexcode" : "1F405",
+        "description" : "호랑이"
+    },
+    {
+        "emoji" : "🐆",
+        "hexcode" : "1F406",
+        "description" : "표범"
+    },
+    {
+        "emoji" : "🐴",
+        "hexcode" : "1F434",
+        "description" : "말 얼굴"
+    },
+    {
+        "emoji" : "🫎",
+        "hexcode" : "1FACE",
+        "description" : "무스"
+    },
+    {
+        "emoji" : "🫏",
+        "hexcode" : "1FACF",
+        "description" : "당나귀"
+    },
+    {
+        "emoji" : "🐎",
+        "hexcode" : "1F40E",
+        "description" : "말"
+    },
+    {
+        "emoji" : "🦄",
+        "hexcode" : "1F984",
+        "description" : "유니콘"
+    },
+    {
+        "emoji" : "🦓",
+        "hexcode" : "1F993",
+        "description" : "얼룩말"
+    },
+    {
+        "emoji" : "🦌",
+        "hexcode" : "1F98C",
+        "description" : "사슴"
+    },
+    {
+        "emoji" : "🦬",
+        "hexcode" : "1F9AC",
+        "description" : "들소"
+    },
+    {
+        "emoji" : "🐮",
+        "hexcode" : "1F42E",
+        "description" : "소의 얼굴"
+    },
+    {
+        "emoji" : "🐂",
+        "hexcode" : "1F402",
+        "description" : "소"
+    },
+    {
+        "emoji" : "🐃",
+        "hexcode" : "1F403",
+        "description" : "물소"
+    },
+    {
+        "emoji" : "🐄",
+        "hexcode" : "1F404",
+        "description" : "젖소"
+    },
+    {
+        "emoji" : "🐷",
+        "hexcode" : "1F437",
+        "description" : "돼지 얼굴"
+    },
+    {
+        "emoji" : "🐖",
+        "hexcode" : "1F416",
+        "description" : "돼지"
+    },
+    {
+        "emoji" : "🐗",
+        "hexcode" : "1F417",
+        "description" : "멧돼지"
+    },
+    {
+        "emoji" : "🐽",
+        "hexcode" : "1F43D",
+        "description" : "돼지코"
+    },
+    {
+        "emoji" : "🐏",
+        "hexcode" : "1F40F",
+        "description" : "양"
+    },
+    {
+        "emoji" : "🐑",
+        "hexcode" : "1F411",
+        "description" : "암양"
+    },
+    {
+        "emoji" : "🐐",
+        "hexcode" : "1F410",
+        "description" : "염소"
+    },
+    {
+        "emoji" : "🐪",
+        "hexcode" : "1F42A",
+        "description" : "낙타"
+    },
+    {
+        "emoji" : "🐫",
+        "hexcode" : "1F42B",
+        "description" : "혹이 두 개인 낙타"
+    },
+    {
+        "emoji" : "🦙",
+        "hexcode" : "1F999",
+        "description" : "라마"
+    },
+    {
+        "emoji" : "🦒",
+        "hexcode" : "1F992",
+        "description" : "기린"
+    },
+    {
+        "emoji" : "🐘",
+        "hexcode" : "1F418",
+        "description" : "코끼리"
+    },
+    {
+        "emoji" : "🦣",
+        "hexcode" : "1F9A3",
+        "description" : "매머드"
+    },
+    {
+        "emoji" : "🦏",
+        "hexcode" : "1F98F",
+        "description" : "코뿔소"
+    },
+    {
+        "emoji" : "🦛",
+        "hexcode" : "1F99B",
+        "description" : "하마"
+    },
+    {
+        "emoji" : "🐭",
+        "hexcode" : "1F42D",
+        "description" : "쥐 얼굴"
+    },
+    {
+        "emoji" : "🐁",
+        "hexcode" : "1F401",
+        "description" : "쥐"
+    },
+    {
+        "emoji" : "🐀",
+        "hexcode" : "1F400",
+        "description" : "검은 쥐"
+    },
+    {
+        "emoji" : "🐹",
+        "hexcode" : "1F439",
+        "description" : "햄스터"
+    },
+    {
+        "emoji" : "🐰",
+        "hexcode" : "1F430",
+        "description" : "토끼 얼굴"
+    },
+    {
+        "emoji" : "🐇",
+        "hexcode" : "1F407",
+        "description" : "토끼"
+    },
+    {
+        "emoji" : "🐿",
+        "hexcode" : "1F43F",
+        "description" : "다람쥐"
+    },
+    {
+        "emoji" : "🦫",
+        "hexcode" : "1F9AB",
+        "description" : "비버"
+    },
+    {
+        "emoji" : "🦔",
+        "hexcode" : "1F994",
+        "description" : "고슴도치"
+    },
+    {
+        "emoji" : "🦇",
+        "hexcode" : "1F987",
+        "description" : "박쥐"
+    },
+    {
+        "emoji" : "🐻",
+        "hexcode" : "1F43B",
+        "description" : "곰"
+    },
+    {
+        "emoji" : "🐨",
+        "hexcode" : "1F428",
+        "description" : "코알라"
+    },
+    {
+        "emoji" : "🐼",
+        "hexcode" : "1F43C",
+        "description" : "팬더"
+    },
+    {
+        "emoji" : "🦥",
+        "hexcode" : "1F9A5",
+        "description" : "나무늘보"
+    },
+    {
+        "emoji" : "🦦",
+        "hexcode" : "1F9A6",
+        "description" : "수달"
+    },
+    {
+        "emoji" : "🦨",
+        "hexcode" : "1F9A8",
+        "description" : "스컹크"
+    },
+    {
+        "emoji" : "🦘",
+        "hexcode" : "1F998",
+        "description" : "캥거루"
+    },
+    {
+        "emoji" : "🦡",
+        "hexcode" : "1F9A1",
+        "description" : "오소리"
+    },
+    {
+        "emoji" : "🐾",
+        "hexcode" : "1F43E",
+        "description" : "발자국"
+    },
+    {
+        "emoji" : "🦃",
+        "hexcode" : "1F983",
+        "description" : "칠면조"
+    },
+    {
+        "emoji" : "🐔",
+        "hexcode" : "1F414",
+        "description" : "치킨"
+    },
+    {
+        "emoji" : "🐓",
+        "hexcode" : "1F413",
+        "description" : "수탉"
+    },
+    {
+        "emoji" : "🐣",
+        "hexcode" : "1F423",
+        "description" : "부화한 병아리"
+    },
+    {
+        "emoji" : "🐤",
+        "hexcode" : "1F424",
+        "description" : "아기 병아리"
+    },
+    {
+        "emoji" : "🐥",
+        "hexcode" : "1F425",
+        "description" : "정면 아기 병아리"
+    },
+    {
+        "emoji" : "🐦",
+        "hexcode" : "1F426",
+        "description" : "새"
+    },
+    {
+        "emoji" : "🐧",
+        "hexcode" : "1F427",
+        "description" : "펭귄"
+    },
+    {
+        "emoji" : "🦅",
+        "hexcode" : "1F985",
+        "description" : "독수리"
+    },
+    {
+        "emoji" : "🦆",
+        "hexcode" : "1F986",
+        "description" : "오리"
+    },
+    {
+        "emoji" : "🦢",
+        "hexcode" : "1F9A2",
+        "description" : "백조"
+    },
+    {
+        "emoji" : "🦉",
+        "hexcode" : "1F989",
+        "description" : "올빼미"
+    },
+    {
+        "emoji" : "🦤",
+        "hexcode" : "1F9A4",
+        "description" : "도도새"
+    },
+    {
+        "emoji" : "🪶",
+        "hexcode" : "1FAB6",
+        "description" : "깃털"
+    },
+    {
+        "emoji" : "🦩",
+        "hexcode" : "1F9A9",
+        "description" : "플라밍고"
+    },
+    {
+        "emoji" : "🦚",
+        "hexcode" : "1F99A",
+        "description" : "공작새"
+    },
+    {
+        "emoji" : "🦜",
+        "hexcode" : "1F99C",
+        "description" : "앵무새"
+    },
+    {
+        "emoji" : "🪽",
+        "hexcode" : "1FABD",
+        "description" : "날개"
+    },
+    {
+        "emoji" : "🪿",
+        "hexcode" : "1FABF",
+        "description" : "거위"
+    },
+    {
+        "emoji" : "🐸",
+        "hexcode" : "1F438",
+        "description" : "개구리"
+    },
+    {
+        "emoji" : "🐊",
+        "hexcode" : "1F40A",
+        "description" : "악어"
+    },
+    {
+        "emoji" : "🐢",
+        "hexcode" : "1F422",
+        "description" : "거북이"
+    },
+    {
+        "emoji" : "🦎",
+        "hexcode" : "1F98E",
+        "description" : "도마뱀"
+    },
+    {
+        "emoji" : "🐍",
+        "hexcode" : "1F40D",
+        "description" : "뱀"
+    },
+    {
+        "emoji" : "🐲",
+        "hexcode" : "1F432",
+        "description" : "용 얼굴"
+    },
+    {
+        "emoji" : "🐉",
+        "hexcode" : "1F409",
+        "description" : "용"
+    },
+    {
+        "emoji" : "🦕",
+        "hexcode" : "1F995",
+        "description" : "공룡"
+    },
+    {
+        "emoji" : "🦖",
+        "hexcode" : "1F996",
+        "description" : "티라노"
+    },
+    {
+        "emoji" : "🐳",
+        "hexcode" : "1F443",
+        "description" : "내뿜는 고래"
+    },
+    {
+        "emoji" : "🐋",
+        "hexcode" : "1F40B",
+        "description" : "고래"
+    },
+    {
+        "emoji" : "🐬",
+        "hexcode" : "1F42C",
+        "description" : "돌고래"
+    },
+    {
+        "emoji" : "🦭",
+        "hexcode" : "1F9AD",
+        "description" : "물개"
+    },
+    {
+        "emoji" : "🐟",
+        "hexcode" : "1F41F",
+        "description" : "물고기"
+    },
+    {
+        "emoji" : "🐠",
+        "hexcode" : "1F420",
+        "description" : "열대어"
+    },
+    {
+        "emoji" : "🐡",
+        "hexcode" : "1F421",
+        "description" : "복어"
+    },
+    {
+        "emoji" : "🦈",
+        "hexcode" : "1F988",
+        "description" : "상어"
+    },
+    {
+        "emoji" : "🐙",
+        "hexcode" : "1F419",
+        "description" : "문어"
+    },
+    {
+        "emoji" : "🐚",
+        "hexcode" : "1F41A",
+        "description" : "소라"
+    },
+    {
+        "emoji" : "🪸",
+        "hexcode" : "1FAB8",
+        "description" : "산호"
+    },
+    {
+        "emoji" : "🪼",
+        "hexcode" : "1FABC",
+        "description" : "해파리"
+    },
+    {
+        "emoji" : "🐌",
+        "hexcode" : "1F40C",
+        "description" : "달팽이"
+    },
+    {
+        "emoji" : "🦋",
+        "hexcode" : "1F98B",
+        "description" : "나비"
+    },
+    {
+        "emoji" : "🐛",
+        "hexcode" : "1F41B",
+        "description" : "벌레"
+    },
+    {
+        "emoji" : "🐜",
+        "hexcode" : "1F41C",
+        "description" : "개미"
+    },
+    {
+        "emoji" : "🐝",
+        "hexcode" : "1F41D",
+        "description" : "꿀벌"
+    },
+    {
+        "emoji" : "🪲",
+        "hexcode" : "1FAB2",
+        "description" : "딱정벌레"
+    },
+    {
+        "emoji" : "🐞",
+        "hexcode" : "1F41E",
+        "description" : "무당벌레"
+    },
+    {
+        "emoji" : "🦗",
+        "hexcode" : "1F997",
+        "description" : "귀뚜라미"
+    },
+    {
+        "emoji" : "🪳",
+        "hexcode" : "1FAB3",
+        "description" : "바퀴벌레"
+    },
+    {
+        "emoji" : "🕸",
+        "hexcode" : "1F578",
+        "description" : "거미줄"
+    },
+    {
+        "emoji" : "🕷",
+        "hexcode" : "1F577",
+        "description" : "거미"
+    },
+    {
+        "emoji" : "🦂",
+        "hexcode" : "1F982",
+        "description" : "전갈"
+    },
+    {
+        "emoji" : "🦟",
+        "hexcode" : "1F99F",
+        "description" : "모기"
+    },
+    {
+        "emoji" : "🪰",
+        "hexcode" : "1FAB0",
+        "description" : "파리"
+    },
+    {
+        "emoji" : "🪱",
+        "hexcode" : "1FAB1",
+        "description" : "지렁이"
+    },
+    {
+        "emoji" : "🦠",
+        "hexcode" : "1F9A0",
+        "description" : "미생물"
+    },
+    {
+        "emoji" : "💐",
+        "hexcode" : "1F490",
+        "description" : "꽃다발"
+    },
+    {
+        "emoji" : "🌸",
+        "hexcode" : "1F338",
+        "description" : "벚꽃"
+    },
+    {
+        "emoji" : "💮",
+        "hexcode" : "1F4AE",
+        "description" : "흰 꽃"
+    },
+    {
+        "emoji" : "🪷",
+        "hexcode" : "1FAB7",
+        "description" : "연꽃"
+    },
+    {
+        "emoji" : "🌹",
+        "hexcode" : "1F339",
+        "description" : "장미"
+    },
+    {
+        "emoji" : "🥀",
+        "hexcode" : "1F940",
+        "description" : "시든 꽃"
+    },
+    {
+        "emoji" : "🌺",
+        "hexcode" : "1F33A",
+        "description" : "히비스커스"
+    },
+    {
+        "emoji" : "🌻",
+        "hexcode" : "1F33B",
+        "description" : "해바라기"
+    },
+    {
+        "emoji" : "🌼",
+        "hexcode" : "1F33C",
+        "description" : "꽃을 피우다"
+    },
+    {
+        "emoji" : "🌷",
+        "hexcode" : "1F337",
+        "description" : "튤립"
+    },
+    {
+        "emoji" : "🪻",
+        "hexcode" : "1FABB",
+        "description" : "히아신스"
+    },
+    {
+        "emoji" : "🌱",
+        "hexcode" : "1F331",
+        "description" : "모종"
+    },
+    {
+        "emoji" : "🪴",
+        "hexcode" : "1FAB4",
+        "description" : "화분에 심은 식물"
+    },
+    {
+        "emoji" : "🌲",
+        "hexcode" : "1F332",
+        "description" : "상록수"
+    },
+    {
+        "emoji" : "🌳",
+        "hexcode" : "1F333",
+        "description" : "낙엽수"
+    },
+    {
+        "emoji" : "🌴",
+        "hexcode" : "1F334",
+        "description" : "야자수"
+    },
+    {
+        "emoji" : "🌵",
+        "hexcode" : "1F335",
+        "description" : "선인장"
+    },
+    {
+        "emoji" : "🌾",
+        "hexcode" : "1F33E",
+        "description" : "벼"
+    },
+    {
+        "emoji" : "🌿",
+        "hexcode" : "1F33F",
+        "description" : "약초"
+    },
+    {
+        "emoji" : "🍀",
+        "hexcode" : "1F340",
+        "description" : "네 잎 클로버"
+    },
+    {
+        "emoji" : "🍁",
+        "hexcode" : "1F341",
+        "description" : "단풍잎"
+    },
+    {
+        "emoji" : "🍂",
+        "hexcode" : "1F342",
+        "description" : "낙엽"
+    },
+    {
+        "emoji" : "🍃",
+        "hexcode" : "1F343",
+        "description" : "바람에 흩날리는 나뭇잎"
+    },
+    {
+        "emoji" : "🪹",
+        "hexcode" : "1FAB9",
+        "description" : "빈둥지"
+    },
+    {
+        "emoji" : "🪺",
+        "hexcode" : "1FABA",
+        "description" : "알을 품다"
+    },
+    {
+        "emoji" : "🍄",
+        "hexcode" : "1F344",
+        "description" : "버섯"
     }
 ]
