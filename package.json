@@ -4,7 +4,11 @@
   "description": "emoji with korean description",
   "main": "emoji_korean.json",
   "repository": "xxxjjhhh/emoji_korean",
-  "author": "kim jihun <xxxjjhhh@naver.com>",
+  "author": {
+    "name": "kim jihun",
+    "email": "xxxjjhhh@naver.com",
+    "url": "https://www.youtube.com/@xxxjjhhh"
+  },
   "license": "MIT",
   "homepage": "https://github.com/xxxjjhhh/emoji_korean",
   "bugs": "https://github.com/xxxjjhhh/emoji_korean/issues",
