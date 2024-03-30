@@ -548,5 +548,165 @@
         "emoji" : "😺",
         "hexcode" : "1F63A",
         "description" : "웃는 고양이"
+    },
+    {
+        "emoji" : "😸",
+        "hexcode" : "1F638",
+        "description" : "웃는 눈으로 웃는 고양이"
+    },
+    {
+        "emoji" : "😹",
+        "hexcode" : "1F639",
+        "description" : "기쁨의 눈물을 흘리는 고양이"
+    },
+    {
+        "emoji" : "😻",
+        "hexcode" : "1F63B",
+        "description" : "하트눈을 가지고 웃는 고양이"
+    },
+    {
+        "emoji" : "😼",
+        "hexcode" : "1F63C",
+        "description" : "쓴웃음을 짓는 고양이"
+    },
+    {
+        "emoji" : "😽",
+        "hexcode" : "1F63D",
+        "description" : "키스를 날리는 고양이"
+    },
+    {
+        "emoji" : "🙀",
+        "hexcode" : "1F640",
+        "description" : "지친 고양이"
+    },
+    {
+        "emoji" : "😿",
+        "hexcode" : "1F63F",
+        "description" : "우는 고양이"
+    },
+    {
+        "emoji" : "😾",
+        "hexcode" : "1F63E",
+        "description" : "삐죽삐죽 고양이"
+    },
+    {
+        "emoji" : "🙈",
+        "hexcode" : "1F648",
+        "description" : "눈에 보이지 않는 원숭이"
+    },
+    {
+        "emoji" : "🙉",
+        "hexcode" : "1F649",
+        "description" : "악의를 듣지 못하는 원숭이"
+    },
+    {
+        "emoji" : "🙊",
+        "hexcode" : "1F64A",
+        "description" : "말을 하지 못하는 원숭이"
+    },
+    {
+        "emoji" : "💌",
+        "hexcode" : "1F48C",
+        "description" : "연애 편지"
+    },
+    {
+        "emoji" : "💘",
+        "hexcode" : "1F498",
+        "description" : "화살표가 있는 하트"
+    },
+    {
+        "emoji" : "💝",
+        "hexcode" : "1F49D",
+        "description" : "리본이 달린 하트"
+    },
+    {
+        "emoji" : "💖",
+        "hexcode" : "1F496",
+        "description" : "반짝이는 하트"
+    },
+    {
+        "emoji" : "💗",
+        "hexcode" : "1F497",
+        "description" : "성장하는 하트"
+    },
+    {
+        "emoji" : "💓",
+        "hexcode" : "1F493",
+        "description" : "성뛰는 하트"
+    },
+    {
+        "emoji" : "💞",
+        "hexcode" : "1F49E",
+        "description" : "회전하는 하트"
+    },
+    {
+        "emoji" : "💕",
+        "hexcode" : "1F495",
+        "description" : "두개의 하트"
+    },
+    {
+        "emoji" : "💟",
+        "hexcode" : "1F49F",
+        "description" : "하트 장식"
+    },
+    {
+        "emoji" : "💔",
+        "hexcode" : "1F494",
+        "description" : "깨진 하트"
+    },
+    {
+        "emoji" : "🩷",
+        "hexcode" : "1FA77",
+        "description" : "핑크 하트"
+    },
+    {
+        "emoji" : "🧡",
+        "hexcode" : "1F9E1",
+        "description" : "오렌지 하트"
+    },
+    {
+        "emoji" : "💛",
+        "hexcode" : "1F949B",
+        "description" : "노란 하트"
+    },
+    {
+        "emoji" : "💚",
+        "hexcode" : "1F49A",
+        "description" : "녹색 하트"
+    },
+    {
+        "emoji" : "💙",
+        "hexcode" : "1F499",
+        "description" : "푸른 하트"
+    },
+    {
+        "emoji" : "🩵",
+        "hexcode" : "1FA75",
+        "description" : "하늘색 하트"
+    },
+    {
+        "emoji" : "💜",
+        "hexcode" : "1F49C",
+        "description" : "보라색 하트"
+    },
+    {
+        "emoji" : "🤎",
+        "hexcode" : "1FA90E",
+        "description" : "갈색 하트"
+    },
+    {
+        "emoji" : "🖤",
+        "hexcode" : "1F5A4",
+        "description" : "흑색 하트"
+    },
+    {
+        "emoji" : "🩶",
+        "hexcode" : "1FA76",
+        "description" : "회색 하트"
+    },
+    {
+        "emoji" : "🤍",
+        "hexcode" : "1F90D",
+        "description" : "흰색 하트"
     }
 ]
