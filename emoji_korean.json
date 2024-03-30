@@ -3248,5 +3248,635 @@
         "emoji" : "🚂",
         "hexcode" : "1F682",
         "description" : "기관차"
+    },
+    {
+        "emoji" : "🚃",
+        "hexcode" : "1F683",
+        "description" : "전철"
+    },
+    {
+        "emoji" : "🚄",
+        "hexcode" : "1F684",
+        "description" : "고속 열차"
+    },
+    {
+        "emoji" : "🚅",
+        "hexcode" : "1F685",
+        "description" : "신칸센"
+    },
+    {
+        "emoji" : "🚆",
+        "hexcode" : "1F686",
+        "description" : "기차"
+    },
+    {
+        "emoji" : "🚇",
+        "hexcode" : "1F687",
+        "description" : "메트로"
+    },
+    {
+        "emoji" : "🚈",
+        "hexcode" : "1F688",
+        "description" : "경전철"
+    },
+    {
+        "emoji" : "🚉",
+        "hexcode" : "1F689",
+        "description" : "역"
+    },
+    {
+        "emoji" : "🚊",
+        "hexcode" : "1F68A",
+        "description" : "전차"
+    },
+    {
+        "emoji" : "🚝",
+        "hexcode" : "1F69D",
+        "description" : "모노레일"
+    },
+    {
+        "emoji" : "🚞",
+        "hexcode" : "1F69E",
+        "description" : "산악 철도"
+    },
+    {
+        "emoji" : "🚋",
+        "hexcode" : "1F68B",
+        "description" : "전차"
+    },
+    {
+        "emoji" : "🚌",
+        "hexcode" : "1F68C",
+        "description" : "버스"
+    },
+    {
+        "emoji" : "🚍",
+        "hexcode" : "1F68D",
+        "description" : "오는 버스"
+    },
+    {
+        "emoji" : "🚎",
+        "hexcode" : "1F68E",
+        "description" : "트롤리버스"
+    },
+    {
+        "emoji" : "🚐",
+        "hexcode" : "1F690",
+        "description" : "미니버스"
+    },
+    {
+        "emoji" : "🚑",
+        "hexcode" : "1F691",
+        "description" : "구급차"
+    },
+    {
+        "emoji" : "🚒",
+        "hexcode" : "1F692",
+        "description" : "소방차"
+    },
+    {
+        "emoji" : "🚓",
+        "hexcode" : "1F693",
+        "description" : "경찰차"
+    },
+    {
+        "emoji" : "🚔",
+        "hexcode" : "1F694",
+        "description" : "마주 오는 경찰차"
+    },
+    {
+        "emoji" : "🚕",
+        "hexcode" : "1F695",
+        "description" : "택시"
+    },
+    {
+        "emoji" : "🚖",
+        "hexcode" : "1F696",
+        "description" : "마주 오는 택시"
+    },
+    {
+        "emoji" : "🚗",
+        "hexcode" : "1F697",
+        "description" : "자동차"
+    },
+    {
+        "emoji" : "🚘",
+        "hexcode" : "1F698",
+        "description" : "마주 오는 자동차"
+    },
+    {
+        "emoji" : "🚙",
+        "hexcode" : "1F699",
+        "description" : "스포츠 유틸리티 차량"
+    },
+    {
+        "emoji" : "🛻",
+        "hexcode" : "1F6FB",
+        "description" : "소형 오픈 트럭"
+    },
+    {
+        "emoji" : "🚚",
+        "hexcode" : "1F69A",
+        "description" : "배달차"
+    },
+    {
+        "emoji" : "🚛",
+        "hexcode" : "1F69B",
+        "description" : "관절식 화물차"
+    },
+    {
+        "emoji" : "🚜",
+        "hexcode" : "1F69C",
+        "description" : "트랙터"
+    },
+    {
+        "emoji" : "🏎",
+        "hexcode" : "1F3CE",
+        "description" : "경주용 자동차"
+    },
+    {
+        "emoji" : "🏍",
+        "hexcode" : "1F3CD",
+        "description" : "오토바이"
+    },
+    {
+        "emoji" : "🛵",
+        "hexcode" : "1F6F5",
+        "description" : "모터 스쿠터"
+    },
+    {
+        "emoji" : "🦽",
+        "hexcode" : "1F9BD",
+        "description" : "수동 휠체어"
+    },
+    {
+        "emoji" : "🦼",
+        "hexcode" : "1F9BC",
+        "description" : "전동 휠체어"
+    },
+    {
+        "emoji" : "🛺",
+        "hexcode" : "1F6FA",
+        "description" : "자동 인력거"
+    },
+    {
+        "emoji" : "🚲",
+        "hexcode" : "1F6B2",
+        "description" : "자전거"
+    },
+    {
+        "emoji" : "🛴",
+        "hexcode" : "1F6F4",
+        "description" : "킥 스쿠터"
+    },
+    {
+        "emoji" : "🛹",
+        "hexcode" : "1F6F9",
+        "description" : "스케이트보드"
+    },
+    {
+        "emoji" : "🛼",
+        "hexcode" : "1F6FC",
+        "description" : "롤러스케이트"
+    },
+    {
+        "emoji" : "🚏",
+        "hexcode" : "1F68F",
+        "description" : "버스 정류장"
+    },
+    {
+        "emoji" : "🛣",
+        "hexcode" : "1F6E3",
+        "description" : "고속도로"
+    },
+    {
+        "emoji" : "🛤",
+        "hexcode" : "1F6E4",
+        "description" : "철도 선로"
+    },
+    {
+        "emoji" : "🛢",
+        "hexcode" : "1F6E2",
+        "description" : "오일 드럼"
+    },
+    {
+        "emoji" : "⛽",
+        "hexcode" : "26FD",
+        "description" : "주유소 연료 펌프"
+    },
+    {
+        "emoji" : "🛞",
+        "hexcode" : "1F6DE",
+        "description" : "바퀴"
+    },
+    {
+        "emoji" : "🚨",
+        "hexcode" : "1F6A8",
+        "description" : "경차등"
+    },
+    {
+        "emoji" : "🚥",
+        "hexcode" : "1F6A5",
+        "description" : "수평 신호등"
+    },
+    {
+        "emoji" : "🚦",
+        "hexcode" : "1F6A6",
+        "description" : "수직 신호등"
+    },
+    {
+        "emoji" : "🛑",
+        "hexcode" : "1F6D1",
+        "description" : "정지표지"
+    },
+    {
+        "emoji" : "🚧",
+        "hexcode" : "1F6A7",
+        "description" : "시공 표지판"
+    },
+    {
+        "emoji" : "⚓",
+        "hexcode" : "2693",
+        "description" : "앵커 닻"
+    },
+    {
+        "emoji" : "🛟",
+        "hexcode" : "1F6DF",
+        "description" : "고리 부표"
+    },
+    {
+        "emoji" : "⛵",
+        "hexcode" : "26F5",
+        "description" : "범선"
+    },
+    {
+        "emoji" : "🛶",
+        "hexcode" : "1F6F6",
+        "description" : "카누"
+    },
+    {
+        "emoji" : "🚤",
+        "hexcode" : "1F6A4",
+        "description" : "쾌속정"
+    },
+    {
+        "emoji" : "🛳",
+        "hexcode" : "1F6F3",
+        "description" : "여객선"
+    },
+    {
+        "emoji" : "⛴",
+        "hexcode" : "26F4",
+        "description" : "페리"
+    },
+    {
+        "emoji" : "🛥",
+        "hexcode" : "1F6E5",
+        "description" : "모터보트"
+    },
+    {
+        "emoji" : "🚢",
+        "hexcode" : "1F6A2",
+        "description" : "배"
+    },
+    {
+        "emoji" : "✈",
+        "hexcode" : "2708",
+        "description" : "비행기"
+    },
+    {
+        "emoji" : "🛩",
+        "hexcode" : "1F6E9",
+        "description" : "소형 비행기"
+    },
+    {
+        "emoji" : "🛫",
+        "hexcode" : "1F6EB",
+        "description" : "비행기 출발"
+    },
+    {
+        "emoji" : "🛬",
+        "hexcode" : "1F6EC",
+        "description" : "비행기 도착"
+    },
+    {
+        "emoji" : "🪂",
+        "hexcode" : "1FA82",
+        "description" : "낙하산"
+    },
+    {
+        "emoji" : "💺",
+        "hexcode" : "1F4BA",
+        "description" : "좌석"
+    },
+    {
+        "emoji" : "🚁",
+        "hexcode" : "1F681",
+        "description" : "헬리콥터"
+    },
+    {
+        "emoji" : "🚟",
+        "hexcode" : "1F69F",
+        "description" : "현수 철도"
+    },
+    {
+        "emoji" : "🚠",
+        "hexcode" : "1F6A0",
+        "description" : "케이블카"
+    },
+    {
+        "emoji" : "🚡",
+        "hexcode" : "1F6A1",
+        "description" : "공중 전차로"
+    },
+    {
+        "emoji" : "🛰",
+        "hexcode" : "1F6F0",
+        "description" : "위성"
+    },
+    {
+        "emoji" : "🚀",
+        "hexcode" : "1F680",
+        "description" : "로켓"
+    },
+    {
+        "emoji" : "🛸",
+        "hexcode" : "1F6F8",
+        "description" : "비행접시"
+    },
+    {
+        "emoji" : "🛎",
+        "hexcode" : "1F6CE",
+        "description" : "종소리"
+    },
+    {
+        "emoji" : "🧳",
+        "hexcode" : "1F9F3",
+        "description" : "짐"
+    },
+    {
+        "emoji" : "⌛",
+        "hexcode" : "231B",
+        "description" : "모래시계"
+    },
+    {
+        "emoji" : "⏳",
+        "hexcode" : "23F3",
+        "description" : "모래시계 미완성"
+    },
+    {
+        "emoji" : "⌚",
+        "hexcode" : "231A",
+        "description" : "시계"
+    },
+    {
+        "emoji" : "⏰",
+        "hexcode" : "23F0",
+        "description" : "자명종"
+    },
+    {
+        "emoji" : "⏱",
+        "hexcode" : "23F1",
+        "description" : "스톱워치"
+    },
+    {
+        "emoji" : "⏲",
+        "hexcode" : "23F2",
+        "description" : "타이머 시계"
+    },
+    {
+        "emoji" : "🕰",
+        "hexcode" : "1F570",
+        "description" : "맨틀피스 시계"
+    },
+    {
+        "emoji" : "🕛",
+        "hexcode" : "1F55B",
+        "description" : "12시"
+    },
+    {
+        "emoji" : "🕧",
+        "hexcode" : "1F567",
+        "description" : "12시 30분"
+    },
+    {
+        "emoji" : "🕐",
+        "hexcode" : "1F550",
+        "description" : "1시"
+    },
+    {
+        "emoji" : "🕜",
+        "hexcode" : "1F55C",
+        "description" : "1시 30분"
+    },
+    {
+        "emoji" : "🕑",
+        "hexcode" : "1F551",
+        "description" : "2시"
+    },
+    {
+        "emoji" : "🕝",
+        "hexcode" : "1F55D",
+        "description" : "2시 30분"
+    },
+    {
+        "emoji" : "🕒",
+        "hexcode" : "1F552",
+        "description" : "3시"
+    },
+    {
+        "emoji" : "🕞",
+        "hexcode" : "1F55E",
+        "description" : "3시 30분"
+    },
+    {
+        "emoji" : "🕓",
+        "hexcode" : "1F553",
+        "description" : "4시"
+    },
+    {
+        "emoji" : "🕟",
+        "hexcode" : "1F55F",
+        "description" : "4시 30분"
+    },
+    {
+        "emoji" : "🕔",
+        "hexcode" : "1F554",
+        "description" : "5시"
+    },
+    {
+        "emoji" : "🕠",
+        "hexcode" : "1F560",
+        "description" : "5시 30분"
+    },
+    {
+        "emoji" : "🕕",
+        "hexcode" : "1F555",
+        "description" : "6시"
+    },
+    {
+        "emoji" : "🕡",
+        "hexcode" : "1F561",
+        "description" : "6시 30분"
+    },
+    {
+        "emoji" : "🕖",
+        "hexcode" : "1F556",
+        "description" : "7시"
+    },
+    {
+        "emoji" : "🕢",
+        "hexcode" : "1F562",
+        "description" : "7시 30분"
+    },
+    {
+        "emoji" : "🕗",
+        "hexcode" : "1F557",
+        "description" : "8시"
+    },
+    {
+        "emoji" : "🕣",
+        "hexcode" : "1F563",
+        "description" : "8시 30분"
+    },
+    {
+        "emoji" : "🕘",
+        "hexcode" : "1F558",
+        "description" : "9시"
+    },
+    {
+        "emoji" : "🕤",
+        "hexcode" : "1F564",
+        "description" : "9시 30분"
+    },
+    {
+        "emoji" : "🕙",
+        "hexcode" : "1F559",
+        "description" : "10시"
+    },
+    {
+        "emoji" : "🕥",
+        "hexcode" : "1F",
+        "description" : "10시 30분"
+    },
+    {
+        "emoji" : "🕚",
+        "hexcode" : "1F55A",
+        "description" : "11시"
+    },
+    {
+        "emoji" : "🕦",
+        "hexcode" : "1F566",
+        "description" : "11시 30분"
+    },
+    {
+        "emoji" : "🌑",
+        "hexcode" : "1F311",
+        "description" : "어두운 달"
+    },
+    {
+        "emoji" : "🌒",
+        "hexcode" : "1F312",
+        "description" : "초승달"
+    },
+    {
+        "emoji" : "🌓",
+        "hexcode" : "1F313",
+        "description" : "상현달"
+    },
+    {
+        "emoji" : "🌔",
+        "hexcode" : "1F314",
+        "description" : "상현달과 보름달 사이"
+    },
+    {
+        "emoji" : "🌕",
+        "hexcode" : "1F315",
+        "description" : "보름달"
+    },
+    {
+        "emoji" : "🌖",
+        "hexcode" : "1F316",
+        "description" : "보름달과 하현달 사이"
+    },
+    {
+        "emoji" : "🌗",
+        "hexcode" : "1F317",
+        "description" : "하현달"
+    },
+    {
+        "emoji" : "🌘",
+        "hexcode" : "1F318",
+        "description" : "그믐달"
+    },
+    {
+        "emoji" : "🌙",
+        "hexcode" : "1F319",
+        "description" : "초승달"
+    },
+    {
+        "emoji" : "🌚",
+        "hexcode" : "1F31A",
+        "description" : "어두운 달 얼굴"
+    },
+    {
+        "emoji" : "🌛",
+        "hexcode" : "1F31B",
+        "description" : "초승달 얼굴"
+    },
+    {
+        "emoji" : "🌜",
+        "hexcode" : "1F31C",
+        "description" : "그믐달 얼굴"
+    },
+    {
+        "emoji" : "🌡",
+        "hexcode" : "1F321",
+        "description" : "온도계"
+    },
+    {
+        "emoji" : "☀",
+        "hexcode" : "2600",
+        "description" : "태양"
+    },
+    {
+        "emoji" : "🌝",
+        "hexcode" : "1F31D",
+        "description" : "보름달 얼굴"
+    },
+    {
+        "emoji" : "🌞",
+        "hexcode" : "1F31E",
+        "description" : "태양 얼굴"
+    },
+    {
+        "emoji" : "🪐",
+        "hexcode" : "1FA90",
+        "description" : "고리형 행성"
+    },
+    {
+        "emoji" : "⭐",
+        "hexcode" : "2B50",
+        "description" : "별"
+    },
+    {
+        "emoji" : "🌟",
+        "hexcode" : "1F31F",
+        "description" : "빛나는 별"
+    },
+    {
+        "emoji" : "🌠",
+        "hexcode" : "1F320",
+        "description" : "별똥별"
+    },
+    {
+        "emoji" : "🌌",
+        "hexcode" : "1F30C",
+        "description" : "은하수"
+    },
+    {
+        "emoji" : "☁",
+        "hexcode" : "2601",
+        "description" : "구름"
     }
 ]
