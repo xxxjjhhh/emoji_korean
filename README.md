@@ -1,6 +1,6 @@
 # emoji_korean
 
-emoji_korean은 한국어 설명을 포함한 이모지 JSON 파일입니다.
+emoji_korean는 한국어 설명을 포함한 이모지 JSON 파일입니다.
 
 ## npm
 
