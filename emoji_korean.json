@@ -3878,5 +3878,570 @@
         "emoji" : "☁",
         "hexcode" : "2601",
         "description" : "구름"
+    },
+    {
+        "emoji" : "⛅",
+        "hexcode" : "26C5",
+        "description" : "구름 뒤의 태양"
+    },
+    {
+        "emoji" : "⛈",
+        "hexcode" : "26C8",
+        "description" : "번개와 비를 동반한 구름"
+    },
+    {
+        "emoji" : "🌤",
+        "hexcode" : "1F324",
+        "description" : "작은 구름 뒤의 태양"
+    },
+    {
+        "emoji" : "🌥",
+        "hexcode" : "1F325",
+        "description" : "큰 구름 뒤의 태양"
+    },
+    {
+        "emoji" : "🌦",
+        "hexcode" : "1F326",
+        "description" : "비구름 뒤의 태양"
+    },
+    {
+        "emoji" : "🌧",
+        "hexcode" : "1F327",
+        "description" : "비로 구름이 끼다"
+    },
+    {
+        "emoji" : "🌨",
+        "hexcode" : "1F328",
+        "description" : "눈구름"
+    },
+    {
+        "emoji" : "🌩",
+        "hexcode" : "1F329",
+        "description" : "번개가 치는 구름"
+    },
+    {
+        "emoji" : "🌪",
+        "hexcode" : "1F32A",
+        "description" : "토네이도"
+    },
+    {
+        "emoji" : "🌫",
+        "hexcode" : "1F32B",
+        "description" : "안개"
+    },
+    {
+        "emoji" : "🌬",
+        "hexcode" : "1F32C",
+        "description" : "풍면"
+    },
+    {
+        "emoji" : "🌀",
+        "hexcode" : "1F300",
+        "description" : "태풍"
+    },
+    {
+        "emoji" : "🌈",
+        "hexcode" : "1F308",
+        "description" : "무지개"
+    },
+    {
+        "emoji" : "🌂",
+        "hexcode" : "1F302",
+        "description" : "닫힌 우산"
+    },
+    {
+        "emoji" : "☂",
+        "hexcode" : "2602",
+        "description" : "우산"
+    },
+    {
+        "emoji" : "☔",
+        "hexcode" : "2614",
+        "description" : "빗방울이 떨어지는 우산"
+    },
+    {
+        "emoji" : "⛱",
+        "hexcode" : "26F1",
+        "description" : "파라솔"
+    },
+    {
+        "emoji" : "⚡",
+        "hexcode" : "26A1",
+        "description" : "번개"
+    },
+    {
+        "emoji" : "❄",
+        "hexcode" : "2744",
+        "description" : "눈송이"
+    },
+    {
+        "emoji" : "☃",
+        "hexcode" : "2603",
+        "description" : "눈 내리는 눈사람"
+    },
+    {
+        "emoji" : "⛄",
+        "hexcode" : "26C4",
+        "description" : "눈사람"
+    },
+    {
+        "emoji" : "☄",
+        "hexcode" : "2604",
+        "description" : "혜성"
+    },
+    {
+        "emoji" : "🔥",
+        "hexcode" : "1F525",
+        "description" : "불"
+    },
+    {
+        "emoji" : "💧",
+        "hexcode" : "1F4A7",
+        "description" : "물방울"
+    },
+    {
+        "emoji" : "🌊",
+        "hexcode" : "1F30A",
+        "description" : "파도"
+    },
+    {
+        "emoji" : "🎃",
+        "hexcode" : "1F383",
+        "description" : "호박 랜턴"
+    },
+    {
+        "emoji" : "🎄",
+        "hexcode" : "1F384",
+        "description" : "크리스마스트리"
+    },
+    {
+        "emoji" : "🎆",
+        "hexcode" : "1F386",
+        "description" : "불꽃놀이"
+    },
+    {
+        "emoji" : "🎇",
+        "hexcode" : "1F387",
+        "description" : "반짝반짝 빛나는"
+    },
+    {
+        "emoji" : "🧨",
+        "hexcode" : "1F9E8",
+        "description" : "폭죽"
+    },
+    {
+        "emoji" : "✨",
+        "hexcode" : "2728",
+        "description" : "반짝반짝 빛나다"
+    },
+    {
+        "emoji" : "🎈",
+        "hexcode" : "1F388",
+        "description" : "풍선"
+    },
+    {
+        "emoji" : "🎉",
+        "hexcode" : "1F389",
+        "description" : "파티 폭죽"
+    },
+    {
+        "emoji" : "🎊",
+        "hexcode" : "1F38A",
+        "description" : "색종이 공"
+    },
+    {
+        "emoji" : "🎋",
+        "hexcode" : "1F38B",
+        "description" : "타나바타 나무"
+    },
+    {
+        "emoji" : "🎍",
+        "hexcode" : "1F38D",
+        "description" : "대나무 장식"
+    },
+    {
+        "emoji" : "🎎",
+        "hexcode" : "1F38E",
+        "description" : "일본 인형"
+    },
+    {
+        "emoji" : "🎏",
+        "hexcode" : "1F38F",
+        "description" : "카프 스트리머"
+    },
+    {
+        "emoji" : "🎐",
+        "hexcode" : "1F390",
+        "description" : "풍등"
+    },
+    {
+        "emoji" : "🎑",
+        "hexcode" : "1F391",
+        "description" : "달 구경식"
+    },
+    {
+        "emoji" : "🧧",
+        "hexcode" : "1F9E7",
+        "description" : "빨간 봉투"
+    },
+    {
+        "emoji" : "🎀",
+        "hexcode" : "1F380",
+        "description" : "리본"
+    },
+    {
+        "emoji" : "🎁",
+        "hexcode" : "1F381",
+        "description" : "포장된 선물"
+    },
+    {
+        "emoji" : "🎗",
+        "hexcode" : "1F397",
+        "description" : "리마인더 리본"
+    },
+    {
+        "emoji" : "🎟",
+        "hexcode" : "1F39F",
+        "description" : "입장권"
+    },
+    {
+        "emoji" : "🎫",
+        "hexcode" : "1F3AB",
+        "description" : "표"
+    },
+    {
+        "emoji" : "🎖",
+        "hexcode" : "1F396",
+        "description" : "무공훈장"
+    },
+    {
+        "emoji" : "🏆",
+        "hexcode" : "1F3C6",
+        "description" : "트로피"
+    },
+    {
+        "emoji" : "🏅",
+        "hexcode" : "1F3C5",
+        "description" : "스포츠 메달"
+    },
+    {
+        "emoji" : "🥇",
+        "hexcode" : "1F947",
+        "description" : "1등 메달"
+    },
+    {
+        "emoji" : "🥈",
+        "hexcode" : "1F948",
+        "description" : "2등 메달"
+    },
+    {
+        "emoji" : "🥉",
+        "hexcode" : "1F949",
+        "description" : "3등 메달"
+    },
+    {
+        "emoji" : "⚽",
+        "hexcode" : "26BD",
+        "description" : "축구공"
+    },
+    {
+        "emoji" : "⚾",
+        "hexcode" : "26BE",
+        "description" : "야구공"
+    },
+    {
+        "emoji" : "🥎",
+        "hexcode" : "1F94E",
+        "description" : "소프트볼"
+    },
+    {
+        "emoji" : "🏀",
+        "hexcode" : "1F3C0",
+        "description" : "농구공"
+    },
+    {
+        "emoji" : "🏐",
+        "hexcode" : "1F3D0",
+        "description" : "배구공"
+    },
+    {
+        "emoji" : "🏈",
+        "hexcode" : "1F3C8",
+        "description" : "미식축구공"
+    },
+    {
+        "emoji" : "🏉",
+        "hexcode" : "1F3C9",
+        "description" : "럭비공"
+    },
+    {
+        "emoji" : "🎾",
+        "hexcode" : "1F3BE",
+        "description" : "테니스"
+    },
+    {
+        "emoji" : "🥏",
+        "hexcode" : "1F94F",
+        "description" : "원반"
+    },
+    {
+        "emoji" : "🎳",
+        "hexcode" : "1F3B3",
+        "description" : "볼링"
+    },
+    {
+        "emoji" : "🏏",
+        "hexcode" : "1F3CF",
+        "description" : "크리켓 경기"
+    },
+    {
+        "emoji" : "🏑",
+        "hexcode" : "1F3D1",
+        "description" : "필드하키"
+    },
+    {
+        "emoji" : "🏒",
+        "hexcode" : "1F3D2",
+        "description" : "아이스 하키"
+    },
+    {
+        "emoji" : "🥍",
+        "hexcode" : "1F94D",
+        "description" : "라크로스"
+    },
+    {
+        "emoji" : "🏓",
+        "hexcode" : "1F3D3",
+        "description" : "탁구"
+    },
+    {
+        "emoji" : "🏸",
+        "hexcode" : "1F3F8",
+        "description" : "배드민턴"
+    },
+    {
+        "emoji" : "🥊",
+        "hexcode" : "1F94A",
+        "description" : "권투 글러브"
+    },
+    {
+        "emoji" : "🥋",
+        "hexcode" : "1F94B",
+        "description" : "도복"
+    },
+    {
+        "emoji" : "🥅",
+        "hexcode" : "1F945",
+        "description" : "골망"
+    },
+    {
+        "emoji" : "⛳",
+        "hexcode" : "26F3",
+        "description" : "골프 필드"
+    },
+    {
+        "emoji" : "⛸",
+        "hexcode" : "26F8",
+        "description" : "스케이트 신발"
+    },
+    {
+        "emoji" : "🎣",
+        "hexcode" : "1F3A3",
+        "description" : "낚싯대"
+    },
+    {
+        "emoji" : "🤿",
+        "hexcode" : "1F93F",
+        "description" : "잠수 마스크"
+    },
+    {
+        "emoji" : "🎽",
+        "hexcode" : "1F3BD",
+        "description" : "런닝 셔츠"
+    },
+    {
+        "emoji" : "🎿",
+        "hexcode" : "1F3BF",
+        "description" : "스키"
+    },
+    {
+        "emoji" : "🛷",
+        "hexcode" : "1F6F7",
+        "description" : "썰매"
+    },
+    {
+        "emoji" : "🥌",
+        "hexcode" : "1F94C",
+        "description" : "컬링 스톤"
+    },
+    {
+        "emoji" : "🎯",
+        "hexcode" : "1F3AF",
+        "description" : "양궁 과녁"
+    },
+    {
+        "emoji" : "🪀",
+        "hexcode" : "1FA80",
+        "description" : "요요"
+    },
+    {
+        "emoji" : "🪁",
+        "hexcode" : "1FA81",
+        "description" : "연"
+    },
+    {
+        "emoji" : "🔫",
+        "hexcode" : "1F52B",
+        "description" : "물총"
+    },
+    {
+        "emoji" : "🎱",
+        "hexcode" : "1F3B1",
+        "description" : "포켓볼"
+    },
+    {
+        "emoji" : "🔮",
+        "hexcode" : "1F52E",
+        "description" : "크리스털 볼"
+    },
+    {
+        "emoji" : "🪄",
+        "hexcode" : "1FA84",
+        "description" : "요술 지팡이"
+    },
+    {
+        "emoji" : "🎮",
+        "hexcode" : "1F3AE",
+        "description" : "비디오 게임"
+    },
+    {
+        "emoji" : "🕹",
+        "hexcode" : "1F579",
+        "description" : "조이스틱"
+    },
+    {
+        "emoji" : "🎰",
+        "hexcode" : "1F3B0",
+        "description" : "슬롯머신"
+    },
+    {
+        "emoji" : "🎲",
+        "hexcode" : "1F3B2",
+        "description" : "주사위"
+    },
+    {
+        "emoji" : "🧩",
+        "hexcode" : "1F9E9",
+        "description" : "퍼즐 조각"
+    },
+    {
+        "emoji" : "🧸",
+        "hexcode" : "1F9F8",
+        "description" : "곰인형"
+    },
+    {
+        "emoji" : "🪅",
+        "hexcode" : "1FA85",
+        "description" : "피냐타"
+    },
+    {
+        "emoji" : "🪩",
+        "hexcode" : "1FAA9",
+        "description" : "미러볼"
+    },
+    {
+        "emoji" : "🪆",
+        "hexcode" : "1FA86",
+        "description" : "중첩 인형"
+    },
+    {
+        "emoji" : "♠",
+        "hexcode" : "2660",
+        "description" : "스페이드 문양"
+    },
+    {
+        "emoji" : "♥",
+        "hexcode" : "2665",
+        "description" : "하트 문양"
+    },
+    {
+        "emoji" : "♦",
+        "hexcode" : "2666",
+        "description" : "다이아몬드 문양"
+    },
+    {
+        "emoji" : "♣",
+        "hexcode" : "2663",
+        "description" : "클럽 문양"
+    },
+    {
+        "emoji" : "♟",
+        "hexcode" : "265F",
+        "description" : "체스"
+    },
+    {
+        "emoji" : "🃏",
+        "hexcode" : "1F0CF",
+        "description" : "조커"
+    },
+    {
+        "emoji" : "🀄",
+        "hexcode" : "1F004",
+        "description" : "마작 적룡"
+    },
+    {
+        "emoji" : "🎴",
+        "hexcode" : "1F3B4",
+        "description" : "화투"
+    },
+    {
+        "emoji" : "🎭",
+        "hexcode" : "1F3AD",
+        "description" : "공연 예술"
+    },
+    {
+        "emoji" : "🖼",
+        "hexcode" : "1F5BC",
+        "description" : "액자에 넣어진 그림"
+    },
+    {
+        "emoji" : "🎨",
+        "hexcode" : "1F3A8",
+        "description" : "아티스트 팔레트"
+    },
+    {
+        "emoji" : "🧵",
+        "hexcode" : "1F9F5",
+        "description" : "실"
+    },
+    {
+        "emoji" : "🪡",
+        "hexcode" : "1FAA1",
+        "description" : "바느질 바늘"
+    },
+    {
+        "emoji" : "🧶",
+        "hexcode" : "1F9F6",
+        "description" : "털실"
+    },
+    {
+        "emoji" : "🪢",
+        "hexcode" : "1FAA2",
+        "description" : "매듭을 짓다"
+    },
+    {
+        "emoji" : "👓",
+        "hexcode" : "1F453",
+        "description" : "안경"
+    },
+    {
+        "emoji" : "🕶",
+        "hexcode" : "1F576",
+        "description" : "선글라스"
+    },
+    {
+        "emoji" : "🥽",
+        "hexcode" : "1F97D",
+        "description" : "고글"
     }
 ]
