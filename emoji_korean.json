@@ -6108,5 +6108,435 @@
         "emoji" : "▶",
         "hexcode" : "25B6",
         "description" : "재생 버튼"
+    },
+    {
+        "emoji" : "⏩",
+        "hexcode" : "23E9",
+        "description" : "속전버튼"
+    },
+    {
+        "emoji" : "⏭",
+        "hexcode" : "23ED",
+        "description" : "다음 트랙 버튼"
+    },
+    {
+        "emoji" : "⏯",
+        "hexcode" : "23EF",
+        "description" : "재생 또는 일시 중지 버튼"
+    },
+    {
+        "emoji" : "◀",
+        "hexcode" : "25C0",
+        "description" : "역버튼"
+    },
+    {
+        "emoji" : "⏪",
+        "hexcode" : "23EA",
+        "description" : "빠른 역방향 버튼"
+    },
+    {
+        "emoji" : "⏮",
+        "hexcode" : "23EE",
+        "description" : "마지막 트랙 버튼"
+    },
+    {
+        "emoji" : "🔼",
+        "hexcode" : "1F53C",
+        "description" : "위쪽 버튼"
+    },
+    {
+        "emoji" : "⏫",
+        "hexcode" : "23EB",
+        "description" : "위쪽 빠른 버튼"
+    },
+    {
+        "emoji" : "🔽",
+        "hexcode" : "1F53D",
+        "description" : "아래쪽 버튼"
+    },
+    {
+        "emoji" : "⏬",
+        "hexcode" : "23EC",
+        "description" : "아래쪽 속단 버튼"
+    },
+    {
+        "emoji" : "⏸",
+        "hexcode" : "23F8",
+        "description" : "일시 중지 버튼"
+    },
+    {
+        "emoji" : "⏹",
+        "hexcode" : "23F9",
+        "description" : "정지 버튼"
+    },
+    {
+        "emoji" : "⏺",
+        "hexcode" : "23FA",
+        "description" : "녹음 버튼"
+    },
+    {
+        "emoji" : "⏏",
+        "hexcode" : "23CF",
+        "description" : "배출 버튼"
+    },
+    {
+        "emoji" : "🎦",
+        "hexcode" : "1F3A6",
+        "description" : "영화"
+    },
+    {
+        "emoji" : "🔅",
+        "hexcode" : "1F505",
+        "description" : "희미한 불빛 버튼"
+    },
+    {
+        "emoji" : "🔆",
+        "hexcode" : "1F506",
+        "description" : "밝은 불빛 버튼"
+    },
+    {
+        "emoji" : "📶",
+        "hexcode" : "1F4F6",
+        "description" : "안테나 바"
+    },
+    {
+        "emoji" : "🛜",
+        "hexcode" : "1F6DC",
+        "description" : "무선"
+    },
+    {
+        "emoji" : "📳",
+        "hexcode" : "1F4F3",
+        "description" : "진동 모드"
+    },
+    {
+        "emoji" : "📴",
+        "hexcode" : "1F4F4",
+        "description" : "휴대전화 꺼짐"
+    },
+    {
+        "emoji" : "♀",
+        "hexcode" : "2640",
+        "description" : "여성 부호"
+    },
+    {
+        "emoji" : "♂",
+        "hexcode" : "2642",
+        "description" : "남성 부호"
+    },
+    {
+        "emoji" : "⚧",
+        "hexcode" : "26A7",
+        "description" : "트랜스젠더 기호"
+    },
+    {
+        "emoji" : "✖",
+        "hexcode" : "2716",
+        "description" : "곱셈"
+    },
+    {
+        "emoji" : "➕",
+        "hexcode" : "2795",
+        "description" : "덧셈"
+    },
+    {
+        "emoji" : "➖",
+        "hexcode" : "2796",
+        "description" : "뺄셈"
+    },
+    {
+        "emoji" : "➗",
+        "hexcode" : "2797",
+        "description" : "나눗셋"
+    },
+    {
+        "emoji" : "🟰",
+        "hexcode" : "1F7F0",
+        "description" : "등호"
+    },
+    {
+        "emoji" : "♾",
+        "hexcode" : "267E",
+        "description" : "무한대"
+    },
+    {
+        "emoji" : "‼",
+        "hexcode" : "203C",
+        "description" : "이중 느낌표"
+    },
+    {
+        "emoji" : "⁉",
+        "hexcode" : "2049",
+        "description" : "느낌표 물음표"
+    },
+    {
+        "emoji" : "❓",
+        "hexcode" : "2753",
+        "description" : "빨간 물음표"
+    },
+    {
+        "emoji" : "❔",
+        "hexcode" : "2754",
+        "description" : "흰 물음표"
+    },
+    {
+        "emoji" : "❕",
+        "hexcode" : "2755",
+        "description" : "흰 느낌표"
+    },
+    {
+        "emoji" : "❗",
+        "hexcode" : "2757",
+        "description" : "붉은 느낌표"
+    },
+    {
+        "emoji" : "〰",
+        "hexcode" : "3030",
+        "description" : "물결치는 대쉬"
+    },
+    {
+        "emoji" : "💱",
+        "hexcode" : "1F4B1",
+        "description" : "환전"
+    },
+    {
+        "emoji" : "💲",
+        "hexcode" : "1F4B2",
+        "description" : "무거운 달러 표시"
+    },
+    {
+        "emoji" : "⚕",
+        "hexcode" : "2695",
+        "description" : "의학적 기호"
+    },
+    {
+        "emoji" : "♻",
+        "hexcode" : "267B",
+        "description" : "재활용 기호"
+    },
+    {
+        "emoji" : "⚜",
+        "hexcode" : "269C",
+        "description" : "플뢰르 드 리"
+    },
+    {
+        "emoji" : "🔱",
+        "hexcode" : "1F531",
+        "description" : "삼지창 엠블럼"
+    },
+    {
+        "emoji" : "📛",
+        "hexcode" : "1F4DB",
+        "description" : "이름배지"
+    },
+    {
+        "emoji" : "🔰",
+        "hexcode" : "1F530",
+        "description" : "초급을 뜻하는 일본어 기호"
+    },
+    {
+        "emoji" : "⭕",
+        "hexcode" : "2B55",
+        "description" : "속이 빈 붉은 원"
+    },
+    {
+        "emoji" : "✅",
+        "hexcode" : "2705",
+        "description" : "체크 표시 버튼"
+    },
+    {
+        "emoji" : "☑",
+        "hexcode" : "2611",
+        "description" : "체크박스가 있는 체크박스"
+    },
+    {
+        "emoji" : "✔",
+        "hexcode" : "2714",
+        "description" : "체크 마크"
+    },
+    {
+        "emoji" : "❌",
+        "hexcode" : "274C",
+        "description" : "엑스 표시"
+    },
+    {
+        "emoji" : "❎",
+        "hexcode" : "274E",
+        "description" : "엑스 표시 버튼"
+    },
+    {
+        "emoji" : "➰",
+        "hexcode" : "27B0",
+        "description" : "꼬불꼬불한 고리"
+    },
+    {
+        "emoji" : "➿",
+        "hexcode" : "27BF",
+        "description" : "더블 컬 루프"
+    },
+    {
+        "emoji" : "〽",
+        "hexcode" : "303D",
+        "description" : "부품 교대 표시"
+    },
+    {
+        "emoji" : "✳",
+        "hexcode" : "2733",
+        "description" : "여덟 스포크의 별표"
+    },
+    {
+        "emoji" : "✴",
+        "hexcode" : "2734",
+        "description" : "여덟 포인트의 별"
+    },
+    {
+        "emoji" : "❇",
+        "hexcode" : "2747",
+        "description" : "반짝반짝 빛나다"
+    },
+    {
+        "emoji" : "©",
+        "hexcode" : "00A9",
+        "description" : "저작권"
+    },
+    {
+        "emoji" : "®",
+        "hexcode" : "00AE",
+        "description" : "등록표시"
+    },
+    {
+        "emoji" : "™",
+        "hexcode" : "2122",
+        "description" : "상표"
+    },
+    {
+        "emoji" : "🔟",
+        "hexcode" : "1F51F",
+        "description" : "키캡: 10"
+    },
+    {
+        "emoji" : "🔠",
+        "hexcode" : "1F520",
+        "description" : "라틴 대문자 입력"
+    },
+    {
+        "emoji" : "🔡",
+        "hexcode" : "1F521",
+        "description" : "라틴 소문자 입력"
+    },
+    {
+        "emoji" : "🔢",
+        "hexcode" : "1F522",
+        "description" : "입력 번호"
+    },
+    {
+        "emoji" : "🔣",
+        "hexcode" : "1F523",
+        "description" : "입력 기호"
+    },
+    {
+        "emoji" : "🔤",
+        "hexcode" : "1F524",
+        "description" : "라틴 문자 입력"
+    },
+    {
+        "emoji" : "🅰",
+        "hexcode" : "1F170",
+        "description" : "A버튼(혈액형)"
+    },
+    {
+        "emoji" : "🆎",
+        "hexcode" : "1F18E",
+        "description" : "AB버튼(혈액형)"
+    },
+    {
+        "emoji" : "🅱",
+        "hexcode" : "1F171",
+        "description" : "B버튼(혈액형)"
+    },
+    {
+        "emoji" : "🆑",
+        "hexcode" : "1F191",
+        "description" : "CL버튼"
+    },
+    {
+        "emoji" : "🆒",
+        "hexcode" : "1F192",
+        "description" : "COOL 버튼"
+    },
+    {
+        "emoji" : "🆓",
+        "hexcode" : "1F193",
+        "description" : "FREE 버튼"
+    },
+    {
+        "emoji" : "ℹ",
+        "hexcode" : "2139",
+        "description" : "정보"
+    },
+    {
+        "emoji" : "🆔",
+        "hexcode" : "1F194",
+        "description" : "아이디버튼"
+    },
+    {
+        "emoji" : "Ⓜ",
+        "hexcode" : "24C2",
+        "description" : "동그라미가 쳐진 M"
+    },
+    {
+        "emoji" : "🆕",
+        "hexcode" : "1F195",
+        "description" : "NEW 버튼"
+    },
+    {
+        "emoji" : "🆖",
+        "hexcode" : "1F196",
+        "description" : "NG버튼"
+    },
+    {
+        "emoji" : "🅾",
+        "hexcode" : "1F17E",
+        "description" : "O버튼(혈액형)"
+    },
+    {
+        "emoji" : "🆗",
+        "hexcode" : "1F197",
+        "description" : "OK버튼"
+    },
+    {
+        "emoji" : "🅿",
+        "hexcode" : "1F17F",
+        "description" : "P버튼"
+    },
+    {
+        "emoji" : "🆘",
+        "hexcode" : "1F198",
+        "description" : "SOS버튼"
+    },
+    {
+        "emoji" : "🆙",
+        "hexcode" : "1F199",
+        "description" : "UP! 버튼"
+    },
+    {
+        "emoji" : "🆚",
+        "hexcode" : "1F19A",
+        "description" : "VS 버튼"
+    },
+    {
+        "emoji" : "🔴",
+        "hexcode" : "1F534",
+        "description" : "붉은 원"
+    },
+    {
+        "emoji" : "🟠",
+        "hexcode" : "1F7E0",
+        "description" : "오렌지색 원"
+    },
+    {
+        "emoji" : "🏳",
+        "hexcode" : "1F3F3",
+        "description" : "백기"
     }
 ]
