@@ -3081,7 +3081,7 @@
     },
     {
         "emoji" : "🏩",
-        "hexcode" : "1F3EA",
+        "hexcode" : "1F3E9",
         "description" : "러브호텔"
     },
     {
@@ -6533,6 +6533,26 @@
         "emoji" : "🟠",
         "hexcode" : "1F7E0",
         "description" : "오렌지색 원"
+    },
+    {
+        "emoji" : "🟡",
+        "hexcode" : "1F7E1",
+        "description" : "노란색 원"
+    },
+    {
+        "emoji" : "🟢",
+        "hexcode" : "1F7E2",
+        "description" : "초록색 원"
+    },
+    {
+        "emoji" : "🔵",
+        "hexcode" : "1F535",
+        "description" : "파란색 원"
+    },
+    {
+        "emoji" : "⚫",
+        "hexcode" : "26AB",
+        "description" : "검은색 원"
     },
     {
         "emoji" : "🏳",
